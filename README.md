@@ -86,9 +86,3 @@ npm run build
 *   Consider adding **Datadog Synthetics** for monitoring.
 
 ***
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-***
